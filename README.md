@@ -1,1 +1,1 @@
-# Hotels-booking-using-MERN-Stack
+# SUHA-Teachingster-FYP
